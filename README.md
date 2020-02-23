@@ -1,0 +1,1 @@
+# panasonic_cf-rz4_fedora31
